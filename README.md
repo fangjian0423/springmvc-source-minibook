@@ -2,6 +2,8 @@
 
 [GITHUB仓库](https://github.com/fangjian0423/springmvc-source-minibook)
 
+[在线阅读](https://fangjian0423.gitbooks.io/springmvc-source-minibook/content)
+
 一本分析SpringMVC部分源码的mini书，基本上是从之前的博客中拷贝过来的，博客地址：http://www.cnblogs.com/fangjian0423/p/springMVC-directory-summary.html
 
 这个mini书比较适合想深入学习SpringMVC的读者。
